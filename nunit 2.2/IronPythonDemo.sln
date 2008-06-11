@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPythonLib", "IronPythonLib\IronPythonLib.csproj", "{F30888DD-4E78-4E2E-A934-5C86DF7C4A54}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPythonLib.Tests", "IronPythonLib.Tests\IronPythonLib.Tests.csproj", "{4EBDE85B-6CB9-4F55-9A33-AA7B514D4CCC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F30888DD-4E78-4E2E-A934-5C86DF7C4A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F30888DD-4E78-4E2E-A934-5C86DF7C4A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F30888DD-4E78-4E2E-A934-5C86DF7C4A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F30888DD-4E78-4E2E-A934-5C86DF7C4A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4EBDE85B-6CB9-4F55-9A33-AA7B514D4CCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4EBDE85B-6CB9-4F55-9A33-AA7B514D4CCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4EBDE85B-6CB9-4F55-9A33-AA7B514D4CCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4EBDE85B-6CB9-4F55-9A33-AA7B514D4CCC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
