@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPythonTest.Framework", "IronPythonTest.Framework\IronPythonTest.Framework.csproj", "{858EB6E9-825B-48E4-BA87-AEF242518FBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPythonTest.Addin", "IronPythonTest.Addin\IronPythonTest.Addin.csproj", "{4FE31B4E-958F-46CF-AA2A-535B3733B403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IronPythonTest.Examples", "IronPythonTest.Examples\IronPythonTest.Examples.csproj", "{0A1F7C3B-0277-4859-AA9C-C84B84B8E2B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{858EB6E9-825B-48E4-BA87-AEF242518FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858EB6E9-825B-48E4-BA87-AEF242518FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858EB6E9-825B-48E4-BA87-AEF242518FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858EB6E9-825B-48E4-BA87-AEF242518FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FE31B4E-958F-46CF-AA2A-535B3733B403}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FE31B4E-958F-46CF-AA2A-535B3733B403}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FE31B4E-958F-46CF-AA2A-535B3733B403}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FE31B4E-958F-46CF-AA2A-535B3733B403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A1F7C3B-0277-4859-AA9C-C84B84B8E2B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A1F7C3B-0277-4859-AA9C-C84B84B8E2B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A1F7C3B-0277-4859-AA9C-C84B84B8E2B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A1F7C3B-0277-4859-AA9C-C84B84B8E2B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
